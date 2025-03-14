@@ -20,3 +20,15 @@
 <br>
 
 Syaif is a 6th semester student of Informatics Engineering with a great interest in web development, especially in the frontend development. Besides studying on campus, Syaif is active in the [Gatherloop](https://github.com/gatherloop) and [CommIT](https://github.com/commitunuja) communities, where he discusses and shares insights about technology. Recently, syaif has also started sharing his knowledge by attending meetups about Web Development & Frontend.
+
+<br>
+
+# 📊 GitHub Stats:
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=syaifmaxl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://nirzak-streak-stats.vercel.app/?user=syaifmaxl&theme=dark&hide_border=false)<br/>
+
+</div>
