@@ -16,4 +16,7 @@
   </a>
 </div>
 
-Syaif is a 6th semester student of Informatics Engineering with a great interest in web development, especially in the frontend field. Besides studying on campus, I am active in the Gatherloop and CommIT communities, where I discuss and share insights about technology. Recently, I also started to share my knowledge by doing meetups about Web Development & Frontend.
+<br>
+<br>
+
+Syaif is a 6th semester student of Informatics Engineering with a great interest in web development, especially in the frontend development. Besides studying on campus, Syaif is active in the Gatherloop and CommIT communities, where he discusses and shares insights about technology. Recently, syaif has also started sharing his knowledge by attending meetups about Web Development & Frontend.
