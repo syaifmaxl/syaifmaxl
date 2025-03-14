@@ -15,3 +15,5 @@
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+
+Syaif is a 6th semester student of Informatics Engineering with a great interest in web development, especially in the frontend field. Besides studying on campus, I am active in the Gatherloop and CommIT communities, where I discuss and share insights about technology. Recently, I also started to share my knowledge by doing meetups about Web Development & Frontend.
