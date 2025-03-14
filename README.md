@@ -23,12 +23,16 @@ Syaif is a 6th semester student of Informatics Engineering with a great interest
 
 <br>
 
-# 📊 GitHub Stats:
+# GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps%20Medium-Light%20Skin%20Tone.png" alt="Flexed Biceps Medium-Light Skin Tone" width="40" height="40" />
 
 <div align="center">
 
+<br>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syaifmaxl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://nirzak-streak-stats.vercel.app/?user=syaifmaxl&theme=dark&hide_border=false)<br/>
+<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=syaifmaxl&theme=dark&hide_border=false)
 
 </div>
